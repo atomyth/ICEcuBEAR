@@ -10,8 +10,8 @@ This application had mainly for eductational purpose. It shows the IceCube detec
 Both real data and simulations are shown.
 An example can be found seen here:  
 <p align="center"> 
-  <a href="https://raw.githubusercontent.com/atomyth/ICEcuBEAR/master/videoPreview.png">
-    <img src="http://img.youtube.com/vi/qsiTajhFO_8/0.jpg" alt="YouTube video thata shows ICUcuBEAR">
+  <a href="https://www.youtube.com/watch?v=qsiTajhFO_8">
+    <img src="https://raw.githubusercontent.com/atomyth/ICEcuBEAR/master/videoPreview.png" alt="YouTube video thata shows ICUcuBEAR">
   </a>
 </p>
 
